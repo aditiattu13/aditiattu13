@@ -49,4 +49,4 @@ Exploring a dataset using **data cleaning**, visual insights, and SQL queries.
 
 ### 🔗 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aditi_Attupuram-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditi-attupuram-69619632a)
+💼 [Aditi Attupuram — LinkedIn](https://www.linkedin.com/in/aditi-attupuram-69619632a)
