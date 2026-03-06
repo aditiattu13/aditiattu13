@@ -48,18 +48,13 @@ Exploring a dataset using **data cleaning**, visual insights, and SQL queries.
 ---
 
 ## 📈 GitHub Stats
-
 <div align="center">
-  
-  <!-- Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=aditiattu13&show_icons=true&theme=tokyonight&hide_title=true&rank_icon=github" height="180" />
 
-  <!-- Languages Card -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditiattu13&layout=compact&theme=tokyonight" height="180" />
+  <img src="https://github-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=aditiattu13&show_icons=true&theme=tokyonight&hide_title=true" height="180" />
+
+  <img src="https://streak-stats.demolab.com?user=aditiattu13&theme=tokyonight&hide_border=true" height="180" />
 
 </div>
-
----
 
 ## 🔗 Connect With Me
 - 📎 **LinkedIn:** www.linkedin.com/in/aditi-attupuram-69619632a  
